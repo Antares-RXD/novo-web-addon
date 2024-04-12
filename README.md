@@ -1,0 +1,1 @@
+# Web addon for Novo
